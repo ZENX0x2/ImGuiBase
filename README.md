@@ -2,6 +2,7 @@
 
 >  - Join CProject to learn about ImGui! https://discord.gg/dnkdDuUtQu
 >  - Check out our website: https://cproject.xyz
+>  - Check out the youtube tutorial for this UI! https://youtu.be/Sn3q7LjG-kA
 
 Features:
 >  - C++ 17
